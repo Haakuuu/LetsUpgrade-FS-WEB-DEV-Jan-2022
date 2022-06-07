@@ -5,7 +5,7 @@ ASSIGNMENTS:
 PROJECTS:
 1. [PORTFOLIO](https://github.com/Sarisha-T/PORTFOLIO-SARISHA-LU)
 2. [LANDING-PAGE](https://github.com/Sarisha-T/LANDING-PAGE)
-3. [Weather API](https://github.com/Weather-API)
+3. [Weather API](https://github.com/Sarisha-T/Weather-API)
 
 CAPSTONE PROJECTS:
 
