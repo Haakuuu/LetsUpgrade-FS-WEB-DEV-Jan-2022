@@ -1,7 +1,7 @@
 ASSIGNMENTS:
 
-[GITHUB INTRODUCTION](https://github.com/Sarisha-T/LU-FS-PGP-GITHUB)
-[GIT SESSION](https://github.com/Sarisha-T/LU-FS-Web-dev-GIT)
+1. [GITHUB INTRODUCTION](https://github.com/Sarisha-T/LU-FS-PGP-GITHUB)
+2. [GIT SESSION](https://github.com/Sarisha-T/LU-FS-Web-dev-GIT)
 
 PROJECTS:
 
