@@ -7,8 +7,9 @@ PROJECTS:
 2. [LANDING-PAGE](https://github.com/Sarisha-T/LANDING-PAGE)
 3. [Weather API](https://github.com/Sarisha-T/Weather-API)
 4. [Recipe](https://github.com/Sarisha-T/recipes)
-5. [Business app] 
+5. [Business app](https://github.com/Sarisha-T/DumpIt)
+
 CAPSTONE PROJECT:
 
-1.[FoodSoGood]
+1.[FoodSoGood](https://github.com/Sarisha-T/GOODFOOD)
 
