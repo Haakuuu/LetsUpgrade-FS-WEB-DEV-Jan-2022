@@ -11,5 +11,5 @@ PROJECTS:
 
 CAPSTONE PROJECT:
 
-1.[FoodSoGood](https://github.com/Sarisha-T/GOODFOOD)
+1.[FoodSoGood](https://github.com/Sarisha-T/FoodSoGood-App)
 
